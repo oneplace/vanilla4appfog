@@ -14,7 +14,7 @@ echo $this->Form->Open();
       <li>
          <?php
             echo $this->Form->Label('Database Host', 'Database.Host');
-            echo $this->Form->TextBox('atabase.Host');
+            echo $this->Form->TextBox('Database.Host');
          ?>
       </li>
       <li>
